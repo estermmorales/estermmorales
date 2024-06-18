@@ -1,5 +1,12 @@
-## Hi there 👋
+<img src="https://i.imgur.com/w1GoMtU.gif" width="128px">
 
+### Hi there 👋
+
+- 🔭 I'm currently a QA intern, working on both manual and automated testing.
+- 📫 How to reach me: [estermorales@protonmail.com](mailto:estermorales@protonmail.com)
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estermmorales)](https://www.linkedin.com/in/estermmorales)
+ 
 <!--
 **estermmorales/estermmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
