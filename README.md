@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I'm currently a QA intern, working on both manual and automated testing.
+- 🔭 I’m currently a QA Intern, working on both manual and automated testing (using Java & Selenium for automation)
+- 🌱 I’m learning Cypress and API testing with Postman
 - 📫 How to reach me: [estermorales@protonmail.com](mailto:estermorales@protonmail.com)
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estermmorales)](https://www.linkedin.com/in/estermmorales)
