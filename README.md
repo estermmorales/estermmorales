@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/MjGfnya.gif" width="128px">
+<img src="https://i.imgur.com/CYS7Q1x.gif" width="128px">
 
 ### Hi there 👋
 
