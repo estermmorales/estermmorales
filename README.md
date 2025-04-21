@@ -5,9 +5,6 @@
 - 🔭 I'm currently a QA Intern, working with both manual testing and automation (using Java & Selenium)
 - 🌱 I'm currently learning Cypress and API testing with Postman
 - 📫 How to reach me: [estermorales@protonmail.com](mailto:estermorales@protonmail.com)
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estermmorales)](https://www.linkedin.com/in/estermmorales)
- 
 <!--
 **estermmorales/estermmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
