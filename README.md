@@ -1,9 +1,9 @@
-<img src="https://i.imgur.com/CYS7Q1x.gif" width="128px">
+<img src="https://i.imgur.com/u8bNY6o.gif" width="128px">
 
 ### Hi there 👋
 
-- 🔭 I’m currently a QA Intern, working on both manual and automated testing (using Java & Selenium for automation)
-- 🌱 I’m learning Cypress and API testing with Postman
+- 🔭 I'm currently a QA Intern, working with both manual testing and automation (using Java & Selenium)
+- 🌱 I'm currently learning Cypress and API testing with Postman
 - 📫 How to reach me: [estermorales@protonmail.com](mailto:estermorales@protonmail.com)
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estermmorales)](https://www.linkedin.com/in/estermmorales)
